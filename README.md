@@ -4,8 +4,10 @@ Kho này chỉ chứa bộ cài để tải về. Giới thiệu, bảng giá v�
 
 | Phần mềm | Phiên bản | Tải về |
 |---|---|---|
-| PTVEventSoundControl | 4.2.0 · Windows 10/11 64-bit | [PTVEventSoundControl-Setup.exe](https://github.com/monterstudioptv-cpu/ptv-downloads/raw/main/PTVEventSoundControl-Setup.exe) |
-| PTV Studio | 3.6.6 b12 · Windows 10/11 64-bit | [PTV-Studio-Setup.exe](https://github.com/monterstudioptv-cpu/ptv-downloads/raw/main/PTV-Studio-Setup.exe) |
+| PTVEventSoundControl | 4.2.0 · Windows 10/11 64-bit | [PTVEventSoundControl-Setup.exe](https://github.com/monterstudioptv-cpu/ptv-downloads/releases/download/tai-ve/PTVEventSoundControl-Setup.exe) |
+| PTV Studio | 3.6.6 b12 · Windows 10/11 64-bit | [PTV-Studio-Setup.exe](https://github.com/monterstudioptv-cpu/ptv-downloads/releases/download/tai-ve/PTV-Studio-Setup.exe) |
+
+Bộ cài nằm ở bản phát hành [tai-ve](https://github.com/monterstudioptv-cpu/ptv-downloads/releases/tag/tai-ve); link trên không đổi khi có bản mới.
 
 SHA-256 (PTVEventSoundControl 4.2.0): `54697c44f06622ddb1d2eeadd506ef49d902bb1ff38a49ffc3b6698f0e38c983`
 
